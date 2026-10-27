@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/seal.png" width="96" alt="UNM Freedom Confessions seal">
+ <img src="seal.png" width="96" alt="UNM Freedom Confessions seal">
 </p>
 
 <h1 align="center">UNM Freedom Confessions</h1>
