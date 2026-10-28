@@ -20,15 +20,17 @@
 
 ## Get the app
 
-**Android APK: coming soon.** The first release will appear on the [Releases](../../releases) page.
+**[Download the latest Android APK](../../releases/latest)**
 
 The app is also coming soon to Google Play.
 
 ### Installing from this page
 
-1. Download the `.apk` file from the latest release on your phone and open it.
-2. When asked, allow your browser to install unknown apps.
-3. Updates from this route are manual: download the newest file from the Releases page.
+1. Open the link above on your phone and download the `.apk` file.
+2. Open the downloaded file. When asked, allow your browser to install unknown apps.
+3. Updates from this route are manual: come back to this page and download the newest file.
+
+Each release shows a SHA-256 checksum so you can check that your file is the original.
 
 ## Help and contact
 
